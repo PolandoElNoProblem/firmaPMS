@@ -1,0 +1,12 @@
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\bin\Debug\firmaPMS.exe.config
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\bin\Debug\firmaPMS.exe
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\bin\Debug\firmaPMS.pdb
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.csproj.AssemblyReference.cache
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.Properties.Resources.resources
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.csproj.GenerateResource.cache
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.csproj.CoreCompileInputs.cache
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.exe
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.pdb
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.Glowny.resources
+C:\Users\dolezinski.jan\source\repos\firmaPMS\firmaPMS\obj\Debug\firmaPMS.boczny.resources
